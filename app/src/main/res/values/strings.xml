@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FamilyMap</string>
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="username">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="email">Email:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="map_frag">Map</string>
+    <string name="info_display">Click on a marker to see event details</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="person_first_name">FIRST NAME</string>
+    <string name="person_last_name">LAST NAME</string>
+    <string name="person_gender">GENDER</string>
+    <string name="life_events_title">LIFE EVENTS</string>
+    <string name="family_title">FAMILY</string>
+
+</resources>
